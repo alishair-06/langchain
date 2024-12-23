@@ -1,0 +1,113 @@
+{
+  "mcqs": [
+    {
+      "question": "What is data structures?",
+      "options": [
+        {
+          "text": "A collection of data organized in a specific format for easy access and manipulation.",
+          "correct": true
+        },
+        {
+          "text": "A way to store and retrieve data in a program.",
+          "correct": false
+        },
+        {
+          "text": "A set of instructions for a computer to perform a task.",
+          "correct": false
+        },
+        {
+          "text": "A type of programming language used for web development.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "What is Node.js?",
+      "options": [
+        {
+          "text": "A JavaScript runtime environment for building scalable and high-performance applications.",
+          "correct": true
+        },
+        {
+          "text": "A programming language used for web development.",
+          "correct": false
+        },
+        {
+          "text": "A database management system for storing and retrieving data.",
+          "correct": false
+        },
+        {
+          "text": "A module for adding interactivity to websites.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "What is the purpose of Node.js?",
+      "options": [
+        {
+          "text": "To provide a platform for building web applications.",
+          "correct": true
+        },
+        {
+          "text": "To allow developers to create desktop applications using JavaScript.",
+          "correct": false
+        },
+        {
+          "text": "To enable real-time communication between users on the internet.",
+          "correct": false
+        },
+        {
+          "text": "To provide a way for developers to manage databases.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "What is the main advantage of using Node.js?",
+      "options": [
+        {
+          "text": "Faster execution speed compared to traditional servers.",
+          "correct": true
+        },
+        {
+          "text": "Better support for multiple programming languages.",
+          "correct": false
+        },
+        {
+          "text": "Easier debugging and troubleshooting.",
+          "correct": false
+        },
+        {
+          "text": "More scalable and flexible than traditional servers.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "What is the event-driven nature of Node.js?",
+      "options": [
+        {
+          "text": "A mechanism for handling multiple tasks simultaneously.",
+          "correct": true
+        },
+        {
+          "text": "A way to create reusable code modules.",
+          "correct": false
+        },
+        {
+          "text": "A feature that allows developers to debug their code more easily.",
+          "correct": false
+        },
+        {
+          "text": "A type of programming language used for building web applications.",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "tag": "javascript",
+  "technology": "Node.js",
+  "mcqPrompt": "What is data structures?",
+  "level": "easy"
+}
